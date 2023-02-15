@@ -15,8 +15,8 @@
 			</div>
 			
 			<div class="name">
-				<h5> Online Banking System</h5></a><br>
-				<h6>In PHP</h6>
+				<h5> SkyBank</h5></a><br>
+				<h6>Trustworthy</h6>
 			</div>
         </div>
             
